@@ -1,0 +1,18 @@
+/* Clash of Classrooms Demo Opening Page */
+/* By Brian Cottrell		             */
+/* 04-26-2014      		                 */
+body {
+  background: #eee;
+  color: #666666; 
+}
+.door{
+    position: absolute;
+    padding: 25%;
+    margin-left: 35%;
+    background-image: url("http://www.clker.com/cliparts/B/3/M/U/m/y/office-glass-door-hi.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.door-text{
+    
+}
