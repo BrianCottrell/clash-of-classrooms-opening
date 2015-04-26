@@ -2,8 +2,29 @@
 /* By Brian Cottrell		             */
 /* 04-26-2014      		                 */
 body {
-  background: #eee;
-  color: #666666; 
+    background: #eee;
+    color: #000;
+    font-family: arial;
+    font-size: 24;
+}
+.classroom{
+    position: absolute;
+    width: 20%;
+    margin-top: 12%;
+    margin-left: 35%;
+    z-index: 1;
+}
+.line-one{
+    margin-left: 43%;
+}
+.line-two{
+    margin-left: 48%;
+}
+.line-three{
+    margin-left: 63%;
+}
+.line-four{
+    margin-left: 48%;
 }
 .door{
     position: absolute;
@@ -12,7 +33,5 @@ body {
     background-image: url("http://www.clker.com/cliparts/B/3/M/U/m/y/office-glass-door-hi.png");
     background-size: contain;
     background-repeat: no-repeat;
-}
-.door-text{
-    
+    z-index: -1;
 }
