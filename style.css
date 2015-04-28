@@ -5,7 +5,7 @@ body {
     background: #eee;
     color: #000;
     font-family: arial;
-    font-size: 24;
+    font-size: 24px;
 }
 .classroom{
     position: absolute;
@@ -15,7 +15,7 @@ body {
     z-index: 1;
 }
 .line-one{
-    margin-left: 43%;
+    margin-left: 40%;
 }
 .line-two{
     margin-left: 48%;
